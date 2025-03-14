@@ -16,16 +16,15 @@
 ![](https://github-profile-trophy.vercel.app/?username=manchain&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
+  <img src="https://raw.githubusercontent.com/manchain/manchain/output/snake.svg" alt="Snake animation" />
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=manchain&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=manchain&icon=6&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/nipudas) 
-
-  <img src="https://raw.githubusercontent.com/manchain/manchain/output/snake.svg" alt="Snake animation" />
 
 ###
 
