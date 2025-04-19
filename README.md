@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on blockchain Projects<br>🌱 I’m currently learning Golang language<br>💬 Ask me about Web3 and Smart Contract related queries <br>⚡ Fun fact - I'm lazy but smart 
+🔭 I’m currently working on blockchain Projects<br>🌱 I’m currently learning Cryptography <br>💬 Ask me about Web3 and Smart Contract related queries <br>⚡ Fun fact - I'm lazy but smart 
 
 
 ## 🌐 Socials:
